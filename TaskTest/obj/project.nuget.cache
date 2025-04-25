@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vMclg8poZXY0VwBMQRIxDJe+PjeK71v5gotS/ccRolRyzLKEpV6KHJZtU0puQgwfszqlx2/Kju0Yi70fvXSCbA==",
+  "dgSpecHash": "8ix7V/0D2dve8Gkcm/dFcwKF6AU2dWh+nksTqDaNQ6XbmoiFX83+AYTQ/KuQDSYleNYcKh9tfdzP0P2bzbhN1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\TaskTest\\TaskTest.csproj",
   "expectedPackageFiles": [
@@ -101,6 +101,7 @@
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\yugar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",

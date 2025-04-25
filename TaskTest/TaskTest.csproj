@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Task Management\Task Management.csproj" />
+    <ProjectReference Include="..\Task Management\TaskManagement.csproj" />
   </ItemGroup>
 
   <ItemGroup>

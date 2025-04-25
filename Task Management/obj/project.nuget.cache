@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dRmAl8gY3549wJUY+TxbJX4gu2QjjujyDsu+Zbje2vp7Qp1GIfHY1XZPTwgK15quZHiKPnEwz+i1X4e8t3jHrA==",
+  "dgSpecHash": "v/FAo34w/L8EXczNXa/5K2Qx1ep58Rs2f5BpPQxB30T8D7pYQ+Sw1myfBjSC29eNv+GmPl2WqqcOmmul6oixpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Task Management.csproj",
+  "projectFilePath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\TaskManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yugar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -103,6 +103,7 @@
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\yugar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\yugar\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",

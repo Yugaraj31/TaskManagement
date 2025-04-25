@@ -4,12 +4,12 @@
     "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\TaskTest\\TaskTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Task Management.csproj": {
+    "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Task Management.csproj",
-        "projectName": "Task Management",
-        "projectPath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Task Management.csproj",
+        "projectUniqueName": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\TaskManagement.csproj",
+        "projectName": "TaskManagement",
+        "projectPath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\TaskManagement.csproj",
         "packagesPath": "C:\\Users\\yugar\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\obj\\",
         "projectStyle": "PackageReference",
@@ -75,6 +75,10 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            },
             "Moq": {
               "target": "Package",
               "version": "[4.20.72, )"
@@ -135,8 +139,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Task Management.csproj": {
-                "projectPath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Task Management.csproj"
+              "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\TaskManagement.csproj": {
+                "projectPath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\TaskManagement.csproj"
               }
             }
           }
