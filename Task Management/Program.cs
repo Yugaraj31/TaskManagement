@@ -52,8 +52,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 
 // Register services
-builder.Services.AddScoped<TokenService>();
-builder.Services.AddScoped<AuthService>();
+builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IAuthService, AuthService > ();
 builder.Services.AddScoped<ITaskService, TaskService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 
