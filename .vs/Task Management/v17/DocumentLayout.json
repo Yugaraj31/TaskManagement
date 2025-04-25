@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|c:\\users\\yugar\\onedrive\\documents\\github\\task management\\task management\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|solutionrelative:task management\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|c:\\users\\yugar\\onedrive\\documents\\github\\task management\\task management\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|solutionrelative:task management\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|c:\\users\\yugar\\onedrive\\documents\\github\\task management\\task management\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|solutionrelative:task management\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|c:\\users\\yugar\\onedrive\\documents\\github\\task management\\task management\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAB3CE5-1C9F-43EA-AD65-36D50260A464}|Task Management\\Task Management.csproj|solutionrelative:task management\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76637ECD-2460-419F-B714-CA0AE5A195C2}|TaskTest\\TaskTest.csproj|c:\\users\\yugar\\onedrive\\documents\\github\\task management\\tasktest\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76637ECD-2460-419F-B714-CA0AE5A195C2}|TaskTest\\TaskTest.csproj|solutionrelative:tasktest\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "Task Management\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Models\\Model.cs",
+              "RelativeToolTip": "Task Management\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:22:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\TaskTest\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskTest\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\TaskTest\\AuthServiceTests.cs",
+              "RelativeToolTip": "TaskTest\\AuthServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:18:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Task Management\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Services\\AuthService.cs",
+              "RelativeToolTip": "Task Management\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:14:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Task Management\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Task Management\\Services\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:13:49.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Task Management\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\yugar\\OneDrive\\Documents\\GitHub\\Task Management\\Task Management\\Services\\TokenService.cs",
+              "RelativeToolTip": "Task Management\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:13:03.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
